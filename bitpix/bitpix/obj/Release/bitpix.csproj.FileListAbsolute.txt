@@ -1,0 +1,11 @@
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\bitpix\bitpix\bin\Release\bitpix.exe.config
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\bitpix\bitpix\obj\Release\bitpix.Form1.resources
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\bitpix\bitpix\obj\Release\bitpix.Properties.Resources.resources
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\bitpix\bitpix\obj\Release\bitpix.csproj.GenerateResource.Cache
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\bitpix\bitpix\bin\Release\bitpix.exe
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\bitpix\bitpix\bin\Release\bitpix.pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\bitpix\bitpix\obj\Release\bitpix.exe
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\bitpix\bitpix\obj\Release\bitpix.pdb
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\bitpix\bitpix\obj\Release\bitpix.csprojResolveAssemblyReference.cache
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\bitpix\bitpix\obj\Release\bitpix.Form2.resources
+C:\Users\Oleg\Documents\Visual Studio 2012\Projects\bitpix\bitpix\obj\Release\bitpix.Form3.resources
